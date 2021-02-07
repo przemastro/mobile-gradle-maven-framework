@@ -3,7 +3,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/przemastro/mobile-gradle-maven-framework)](https://github.com/przemastro/mobile-gradle-maven-framework/network)
 [![GitHub stars](https://img.shields.io/github/stars/przemastro/mobile-gradle-maven-framework)](https://github.com/przemastro/mobile-gradle-maven-framework/stargazers)
 [![Java version](https://img.shields.io/badge/Java-1.8-%23b07219)](https://github.com/przemastro/mobile-gradle-maven-framework)
-[![npm version](https://img.shields.io/badge/npm--%233572A5)](https://github.com/przemastro/protractor-mocha-chai-selenium)
 
 # Features
 Proof of concept for mobile automated testing
